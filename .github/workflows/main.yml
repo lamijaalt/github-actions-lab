@@ -21,7 +21,3 @@ jobs:
 
       - name: Pokazi strukturu fajlova
         run: ls -la
-        run: date
-
-      - name: Pokazi strukturu fajlova
-        run: ls -la
