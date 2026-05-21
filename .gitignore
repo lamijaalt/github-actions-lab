@@ -1,0 +1,19 @@
+# Zavisnosti (ovaj folder je ogroman i ne ide na Git)
+node_modules/
+
+# Logovi
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Okruženje (ovdje stoje tajni ključevi, lozinke itd.)
+.env
+.env.local
+
+# Build folderi (ako koristiš React, Vue, itd.)
+dist/
+build/
+
+# Sistemski fajlovi
+.DS_Store
+Thumbs.db
